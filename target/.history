@@ -1,0 +1,19 @@
+container: start
+container:start
+~ ;copy-resources;aux-compile
+update
+reload
+container:start
+~ ;copy-resources;aux-compile
+container:start
+reload
+update
+container:start
+~ ;copy-resources;aux-compile
+reload
+container:start
+reload
+container:start
+reload
+container:start
+~ ;copy-resources;aux-compile
